@@ -1,0 +1,1 @@
+This is a .NET Core command line app written in C#. It is in Visual Studio anad is a refactoring of a similar project in Visual Studio Code. I wanted to become very clear on the differences between VS and VSC.
